@@ -1,0 +1,375 @@
+@media screen and (max-width:1260px)   {   
+    .block-all-impor-direc{
+        flex-wrap: wrap;
+    }
+  
+  
+}
+@media screen and (max-width:1270px)   {   
+
+    .box-g{  
+        width: 100%;  
+    }  
+  
+}
+@media screen and (max-width:1270px)   {   
+    .main-item_block{  
+        flex-wrap: wrap;  
+    }  
+  
+  
+} 
+@media screen and (max-width:1274px)   {   
+
+    .import-photo{
+        display: none;
+    }
+  
+} 
+@media screen and (max-width:1241px)   {   
+    .blok-_-formm {
+       display: block;
+    }
+
+}
+@media screen and (max-width:1200px)   {   
+        .box-b{  
+            width: 100%;  
+        }  
+        .href_title{  
+            display: none;  
+        }  
+        .import-bizz{  
+            width: 50%;  
+        }  
+        .bizz_img{  
+            width: 50%;  
+        }  
+ 
+        .import-usual{ 
+          width: 50%; 
+        } 
+  
+  
+    }   
+    @media screen and (max-width:1225px)   {   
+        .form-row{
+            flex-wrap: wrap;
+        }
+
+    }
+    @media screen and (max-width:1183px)   {   
+
+     .footer_inner{
+        display: block;
+     }
+      
+    }
+    @media screen and (max-width:1183px)   {   
+
+        .footer-img{
+            text-align: center;
+        }
+        
+      
+    }
+    @media screen and (max-width:1015px)   {   
+        
+        .main-_-tem{
+            display: block;
+        }
+      .join{
+          color: black;
+      }
+      .samos-_-join{
+          color: black;
+      }
+      .join-_-now{
+          background-color: grey;
+      }
+    }
+    @media screen and (max-width:912px) {  
+  
+        .menu__{
+            margin: 0;
+        }
+    }
+    @media screen and (min-width:900px ){
+        .href-title{
+            color: rgb(255, 255, 255);
+        }
+        .logo{
+            margin: 27.5px ;
+        }
+        .header-right{
+            display: flex;
+        }
+        .btn{
+            display: none;
+        }
+        .menu{
+            display: flex;
+            width: 701px ;
+        }
+        .main-nav{
+            height: auto;
+            overflow: visible;
+            color: rgb(225, 225, 225);
+            background-color: transparent;
+        }
+    }
+    @media screen and (max-width:869px) {  
+  
+        .card{  
+            width: 50%;  
+        }  
+        .import-bizz{  
+            width: 100%;  
+        }  
+    }  
+    @media screen and (max-width:911px  ) {  
+  
+        .card{  
+            width: 70%;  
+        }  
+        .import-bizz{  
+            width: 100%;  
+        }  
+   
+    }  
+
+    @media screen and (max-width:732px  ) {  
+        .import-usual{ 
+           margin: 0; 
+          } 
+          .photo-mini{ 
+            display: none; 
+        } 
+        
+    } 
+    @media screen and (max-width:728px) {  
+        .href-_-a{
+            font-size: 15px;
+        }
+    }  
+    @media screen and (max-width:712px  ) {  
+
+        .menu__{
+            padding: 10px;
+        }
+    } 
+
+    @media screen and (max-width:657px) {  
+        .train{  
+            font-size: 33px;  
+            padding-bottom: 20px;  
+        }  
+        .box-g{  
+            display: none;  
+        }  
+        .nav{  
+            display: none;  
+        }  
+        .import-usual{  
+            margin: 0;  
+        }  
+        .main-tem_text{
+            margin: 20px 0px;
+        }
+        .icons{
+            display: block;
+        }
+        
+    } 
+
+    @media screen and (max-width:659px) {  
+        .form-row{
+            width: 100%;
+        }
+
+        .ckarrd::before{
+            right: 1%;
+        }
+    }
+    @media screen and (max-width:630px) {  
+         
+        .ckards{ 
+          display: block;
+        } 
+        .kards{ 
+            display: block;
+        } 
+    }  
+    @media screen and (max-width:582px) {  
+        
+        .main-_-ttext{
+            margin: 0;
+        }
+        
+    }
+
+  
+    @media screen and (max-width:541px) {  
+       
+        .join-_-now {
+            padding: 10px;
+        }
+    }
+    @media screen and (max-width:535px) {  
+               
+        .import-usual  img { 
+            width: 70%; 
+        } 
+        .impor-hun img{ 
+            width: 50%; 
+        } 
+        .navv{
+            flex-wrap: wrap;
+        }
+    }  
+    @media screen and (max-width:530px) {  
+        .block-all{
+            padding: 0;
+        }
+      
+    }  
+    @media screen and (max-width:518px) {  
+    
+        .mennyu{
+            margin-top: 20px;
+        }
+    } 
+    @media screen and (max-width:509px) {  
+               
+        .card1{  
+            margin: 49px 0;  
+        }  
+        .card2{  
+            margin: 49px 0;  
+        }  
+        .card3{  
+            margin: 49px 0;  
+        }  
+        .card4{  
+            margin: 49px 0;  
+        }  
+        .card5{  
+            margin: 49px 0;  
+        }  
+        .cause{  
+            line-height: 43px;  
+        }  
+         .bizness1{  
+             display: block;  
+         }  
+         .ckard{  
+             width: 100%;  
+         }  
+      
+    }
+    @media screen and (max-width:505px) {  
+        .join-_-now{
+            padding: 3px;
+            display: block;
+        }
+        
+    } 
+    @media screen and (max-width:436px  ) {  
+        .ckard{  
+            width: 50%;  
+        }  
+        
+    } 
+    @media screen and (max-width:475px  ) {  
+        .main-_-tem{
+            margin: 0;
+        }
+        
+    } 
+    @media screen and (max-width:432px  ) {  
+       
+       .join{
+           font-size: 20px;
+       } 
+    } 
+    @media screen and (max-width:413px  ) {  
+        .right-line::before{
+            right: 0%;
+        }
+        .volkavosen::before{
+            right: 0%;
+        }
+        .phone{
+            width: 250px;
+        }
+        .proud{
+            line-height: 42px;
+        }
+    }
+    @media screen and (max-width:400px  ) {  
+        .pho{
+            width: 150px;
+        }
+    }
+    @media screen and (max-width:337px  ) {  
+
+    }
+
+      
+    @media screen and (max-width:376px  ) {  
+        .card{  
+            width: 100%;  
+        }  
+        .cause{  
+            line-height: 99px;  
+        }  
+  
+    }
+    @media screen and (max-width:341px  ) { 
+        .butonn{
+
+            margin: 20px;
+        }    
+        .volkavosen::before{
+            display: none;
+          }
+          .bizness::before{
+            display: none;
+          }
+          .item_bizness::before{
+              display: none;
+          }
+          .kom-passa::before{
+              display: none;
+          }
+          .kom-car::before{
+              display: none;
+          }
+          .right-line::before{
+            display: none;
+        }
+    }
+
+    @media screen and (max-width:355px  ) {  
+        .main-_-img img{
+            width: 250px;
+        }
+    }
+    @media screen and (max-width:319px  ) {  
+        .buton{
+            padding: 4px 9px;
+        }
+    }
+
+    @media screen and (max-width:309px  ) {  
+        .butonn {
+            margin: 0px;
+            text-align: center;
+        }
+        .card::before{
+            bottom: 25%;
+        }
+        .train{
+            font-size: 19px;
+        }
+    }
